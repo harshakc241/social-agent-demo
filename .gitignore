@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+env/
+.venv/
+venv/
+.Python
+pip-wheel-metadata/
+*.egg-info/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+thumbs.db
+
+# Streamlit / logs
+*.log
+
+# Secrets
+secrets.json
+*.pem
